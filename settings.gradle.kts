@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "gradle-practice"
-include("app")
+include("library", "customlibrary")
